@@ -1,11 +1,5 @@
 ## Boasss!! Fique a vontade.
 
-<div>
-  <a href="https://github.com/dedantas">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=dedantas&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedantas&layout=compact&langs_count=16&theme=nightowl"/>
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="De-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img align="center" alt="De-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
@@ -14,3 +8,9 @@
 ##
           
 - 🌱 Estudando C, Linux, Cybersecurity e me desenvolvendo como programador
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dedantas/dedantas/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dedantas/dedantas/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/dedantas/dedantas/output/github-snake.svg" />
+</picture>
