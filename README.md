@@ -1,6 +1,5 @@
 ## Boasss!! Fique a vontade.
 
-- 🌱 Estudando C, Linux, Cybersecurity e me desenvolvendo como programador
 <div>
   <a href="https://github.com/dedantas">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=dedantas&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
@@ -13,9 +12,5 @@
 </div>
 
 ##
-
-<div>
-  ![Snake animation](https://github.com/dedantas/dedantas/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
           
+- 🌱 Estudando C, Linux, Cybersecurity e me desenvolvendo como programador
