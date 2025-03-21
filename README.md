@@ -1,16 +1,21 @@
-## Hi there 👋
+## Boasss!! Fique a vontade.
 
-<!--
-**dedantas/dedantas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Estudando C, Linux, Cybersecurity e me desenvolvendo como programador
+<div>
+  <a href="https://github.com/dedantas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dedantas&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedantas&layout=compact&langs_count=16&theme=nightowl"/>
+</div>
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+  <img align="center" alt="De-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+  <img align="center" alt="De-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div>
+  ![Snake animation](https://github.com/dedantas/dedantas/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+          
